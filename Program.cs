@@ -1,12 +1,8 @@
 ﻿using System;
-
-namespace Property_Namespace
-{
-    class Program
+class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+        Ucenik David = new Ucenik();
         }
     }
-}
